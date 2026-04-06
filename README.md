@@ -15,6 +15,7 @@ SMS alerts via Africa's Talking
 Structured database (Users, Members, Payments, Reports)
 
 How to reach hosting:
+
 Designed DFD, ERD, and system architecture
 
 Built front-end pages and PHP back-end
